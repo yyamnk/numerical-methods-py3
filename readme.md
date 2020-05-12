@@ -15,9 +15,9 @@
 学習すべき内容を記した3つのノートブックを用意しました．
 以下のリンク先を参照し，順番に学習してください．
 
-[exp_python1](https://github.com/yyamnk/numerical-methods-py3/blob/master/exp_python1.ipynb)
-[exp_python2]()
-[exp_python3]()
+- [exp_python1](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python1.ipynb)
+- [exp_python2]()
+- [exp_python3]()
 
 実験は2週間あるので，進捗は各自に任せます．
 ただし，下記のレポート提出を忘れないで下さい．
