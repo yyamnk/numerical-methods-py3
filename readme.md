@@ -1,31 +1,12 @@
-# 機械システム工学実験　テーマK
+# numerical methods by Python 3
 
+Python3による数値解析の基礎に関する教材
 
-## はじめに
-
-本実験では，Pythonを用いた数値解析手法の基礎を学びます．
-
-
-## 実験の進め方
-
-本実験では，各自が自主的に学べるように教材を準備しました．
-必要なものは，ネットワークに接続できるパソコン・スマホ・タブレット等のいずれかです．
-特別なアプリケーションをインストールする必要はありません．ブラウザのみで簡潔できるはずです．
-
-学習すべき内容を記した3つのノートブックを用意しました．
-以下のリンク先を参照し，順番に学習してください．
-
-- [exp_python1](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python1.ipynb)
-- [exp_python2]()
-- [exp_python3]()
-
-実験は2週間あるので，進捗は各自に任せます．
-ただし，下記のレポート提出を忘れないで下さい．
-
-## レポートについて
-
-3つのノートブックの内容を学習したら，レポートを作成してもらいます．
-作成は，下記のリンク先の指示に従って下さい．
-[exp_python_report]()
-
-レポート提出の期限は，第2週の講義終了の1週間後とします．
+- exp_python1.ipynb
+    - lecture:basic python, numpy, colab
+- exp_python2.ipynb
+    - lecture: Euler method
+- exp_python3.ipynb
+    - lecture: Runge-Kutta method
+- exp_python3_report.ipynb
+    - report template
