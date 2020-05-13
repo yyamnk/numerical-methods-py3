@@ -37,7 +37,8 @@
 2. 各自のGoogle Driveにコピーを作成する．
 3. テンプレートにある指示に従って，プログラミング・実行・考察を行う
 4. 完成したら，`ファイル` > `.ipynbをダウンロード`としてnotebookをデバイスに保存する
-5. [C-Learningのレポート提出ページ](https://udai.c-learning.jp/s/report/put/rb78221373)より，ダウンロードした`.ipynb`を提出する
+5. ダウンロードしたnotebookのファイル名を，`学籍番号.ipynb`に変更する
+6. [C-Learningのレポート提出ページ](https://udai.c-learning.jp/s/report/put/rb78221373)より，リネームしたnotebook（`学籍番号.ipynb`）を提出する
 
 レポート提出の期限は，第2週の講義が終わってから1週間後とします．
 
