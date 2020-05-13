@@ -33,7 +33,7 @@
 3つのノートブックの内容を学習したら，レポートを作成してもらいます．
 次の手順に従い，レポートもnotebook形式で作成してください．
 
-1. レポートのテンプレート[exp_python_report](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_report.ipynb)を開く．
+1. レポートのテンプレート[exp_python_report](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python_report.ipynb)を開く．
 2. 各自のGoogle Driveにコピーを作成する．
 3. テンプレートにある指示に従って，プログラミング・実行・考察を行う
 4. 完成したら，`ファイル` > `.ipynbをダウンロード`としてnotebookをデバイスに保存する
