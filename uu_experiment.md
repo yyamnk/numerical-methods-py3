@@ -16,6 +16,8 @@
 必要なものは，ネットワークに接続できるデバイス（PCを推奨しますが，タブレットやスマホでも利用可能）です．
 特別なアプリケーションをインストールする必要はありません．ブラウザのみを利用します．
 
+> ブラウザは，Google Chromeを推奨します．Microsoft Edgeでは動作しません．
+
 学習内容を3つのnotebookとして用意しました．
 以下のリンク先を開いて，<u>各自のGoogle Driveにコピーを作成してから</u>学習してください（コピーの作成方法は最初のnotebookに記載してあります）．
 
@@ -32,8 +34,7 @@
 
 ## レポートについて
 
-3つのノートブックの内容を学習したら，レポートを作成してもらいます．
-次の手順に従い，レポートもnotebook形式で作成してください．
+3つのnotebookの内容を学習したら，次の手順でレポートを作成してください．
 
 1. レポートのテンプレート[exp_python_report](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python_report.ipynb)を開く．
 2. 各自のGoogle Driveにコピーを作成する．
