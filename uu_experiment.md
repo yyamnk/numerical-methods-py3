@@ -38,16 +38,15 @@
 
 1. レポートのテンプレート[exp_python_report](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python_report.ipynb)を開く．
 2. 各自のGoogle Driveにコピーを作成する．
-3. テンプレートにある指示に従って，プログラミング・実行・考察を行う
-4. 完成したら，
-    - (PCの場合)
+3. ページの最上部にあるファイル名`exp_python_report のコピー`をクリックし，`学籍番号.ipynb`に変更する
+4. テンプレートにある指示に従って，プログラミング・実行・考察を行う
+5. 完成したら，次の手順でnotebookをダウンロードする
+    - PCの場合
         - `ファイル` > `.ipynbをダウンロード`としてnotebookをデバイスに保存する
-        - ダウンロードしたnotebookのファイル名を，`学籍番号.ipynb`に変更する
-    - (スマホの場合)
+    - スマホの場合
         - `ファイル` > `ドライブで探す`として，Google Drive上のnotebook一覧を開く
-        - 「exp_python_report.ipynbのコピー」の右側にあるメニュー （縦3点リーダー, ︙）> 名前を変更 > `学籍番号.ipynb`にする
-        - 同じくメニュー > ダウンロード
-5. [C-Learningのレポート提出ページ](https://udai.c-learning.jp/s/report/put/rb78221373)より，リネームしたnotebook（`学籍番号.ipynb`）を提出する
+        - `学籍番号.ipynb`の右側にあるメニュー （縦3点リーダー, ︙）> ダウンロード としてnotebookをデバイスに保存する
+6. [C-Learningのレポート提出ページ](https://udai.c-learning.jp/s/report/put/rb78221373)より，リネームしたnotebook（`学籍番号.ipynb`）を提出する
 
 レポート提出の期限は，第2週の実験が終わってから1週間後とします．
 
