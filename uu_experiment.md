@@ -1,8 +1,6 @@
 # 機械システム工学実験　テーマI (情報処理)
 
 
-## はじめに
-
 本実験では，Pythonを用いた数値解析手法の基礎を学びます．
 まずPythonの基礎を学び，最後には簡単な力学系の挙動をシミュレーションします．
 
@@ -28,12 +26,20 @@
 - 前期: 231番教室・金3-5コマ
 - 後期: 321番教室・月3-5コマ
 
+対面で実験を行います．
+1回でも欠席した場合は単位が出ません．くれぐれも注意してください．
+
 
 ## 実験の進め方
 
+講義室から，各自のPCでこのページにアクセスします．
+まず学習用notebookで実験を進め，最後に課題用notebookにある問題を解いてください．
+
+以下のリンクを開くと各notebookが開きます．詳しい使い方は第1週で学びます．
+
 - 第1週
-    - [exp_python1](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python1.ipynb)
-    - [exp_report1](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_report1.ipynb)
+    - 学習用notebook [exp_python1](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python1.ipynb)
+    - 課題用notebook [exp_report1](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_report1.ipynb)
 
 - 第2週
     - 準備中
@@ -41,34 +47,9 @@
     - 準備中
 
 
-## レポートについて（暫定，変更の可能性あり）
+## レポート課題（準備中）
 
-3週分の学習を終えたら，次の手順でレポートを作成してください．
-
-1. レポートのテンプレート[exp_python_report](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python_report.ipynb)を開く．
-2. 各自のGoogle Driveにコピーを作成する．
-3. ページの最上部にあるファイル名`exp_python_report のコピー`をクリックし，`学籍番号.ipynb`に変更する
-4. テンプレートにある指示に従って，プログラミング・実行・考察を行う
-5. 完成したら保存し，一度タブを閉じる．
-6. 保存したnotebookを再度開き，内容を確認する．（例年，保存ミスと思われるテンプレートのままのレポートが提出されることがあります．必ず確認すること！）
-7. 次の手順でnotebookをダウンロードする
-    - `ファイル` > `.ipynbをダウンロード`としてnotebookをデバイスに保存する
-    <!--
-    - PCの場合
-        - `ファイル` > `.ipynbをダウンロード`としてnotebookをデバイスに保存する
-    - スマホの場合
-        - `ファイル` > `ドライブで探す`として，Google Drive上のnotebook一覧を開く
-        - `学籍番号.ipynb`の右側にあるメニュー （縦3点リーダー, ︙）> ダウンロード としてnotebookをデバイスに保存する
-    -->
-8. [C-Learningのレポート提出ページ](https://udai.c-learning.jp/s/report/put/rb82895217)より，リネームしたnotebook（`学籍番号.ipynb`）を提出する
-
-レポート提出の期限は，第3週の実験が終わってから1週間後とします．
-
-> 例
-> - 第1週実験日: 4月8日（金）
-> - 第2週実験日: 4月15日（金）
-> - 第3週実験日: 4月22日（金）
-> - レポート提出期限: 4月29日（金）
+最終週にはレポート課題を出します．
 
 
 ## 更新履歴
