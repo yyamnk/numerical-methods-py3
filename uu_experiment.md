@@ -1,64 +1,49 @@
-# 機械システム工学実験　テーマK
+# 機械システム工学実験　テーマI (情報処理)
 
 
 ## はじめに
 
 本実験では，Pythonを用いた数値解析手法の基礎を学びます．
-まずPythonの基礎を学び，これらの知識を使って，簡単な力学系の挙動をシミュレーションします．
+まずPythonの基礎を学び，最後には簡単な力学系の挙動をシミュレーションします．
 
 数値解析手法は，工業製品の設計やロボットの制御等に必要不可欠な要素技術です．
 本実験では，1からプログラミングすることで，数値解析の基礎を理解することを目的とします．
 
-## 出席について
-
-実施場所の制約から2週間の日程すべてを対面で実施できないため，以下のようにします．
-
-- 第1週：オンデマンド
-    - オンデマンドのため，時間中に出席を確認しません．このページの「実験の進め方」に従って，各自で実験してください．
-- 第2週：対面
-    - 場所：陽東キャンパス総合メディア基盤センター，研究用端末室
-    - 対面の週は出席をとります．<u>欠席すると単位が出せません．</u>
 
 ## 実験前の準備
 
-- 第1週の前
+- ノートPC
+    - この実験では，各自のノートPCを使って進めますので，実験当日に持参してください．
+- Googleアカウント
     - 実験結果を各自のGoogle Driveに保存します．そのため，もし持っていなければGoogleアカウントを作成してください．
     - 既にGoogle アカウントを持っている場合は，新規に作る必要はありません．
-- 第2週の前
-    - メディア基盤センターの端末にログインするIDとパスワードを確認すること
-    - メディア基盤センターの端末から，第1週で使ったGoogleアカウントにログインできるように確認しておくこと
+    - 実験で使うノートPCでGoogleアカウントにログインできることを確認しておいてください．
+- Webブラウザ
+    - Google Chromeを使用します．インストールしてください．
+    - Microsoft Edgeでは動作しない可能性があります．
+
+
+## 実験の場所・日時
+
+- 前期: 231番教室・金3-5コマ
+- 後期: 321番教室・月3-5コマ
 
 
 ## 実験の進め方
 
-本実験では，各自が自主的に学べるようにJupyter notebookという形式で教材を準備しました．
+- 第1週
+    - [exp_python1](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python1.ipynb)
+    - [exp_report1](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_report1.ipynb)
 
-第1週の実験で必要なものは，ネットワークに接続できるデバイス（PCを推奨しますが，一応，タブレットやスマホでも利用可能）です．
-特別なアプリケーションをインストールする必要はありません．ブラウザのみを利用します．
-第2週では，メディア基盤センターの端末を使います．
-
-> ブラウザは，Google Chromeを推奨します．Microsoft Edgeでは動作しません．
-
-学習内容を3つのnotebookとして用意しました．
-以下のリンク先を開いて，<u>各自のGoogle Driveにコピーを作成してから</u>学習してください（コピーの作成方法は最初のnotebookに記載してあります）．
-
-第1週に各自で進めた続きを第2週でやります．
-そのため，第1週でやった内容は，確実に各自のGoogle Driveに保存してください．
-
-> 【注意】
->
-> 本実験は2週間のテーマです．
-> 学習の進捗は各自に任せますが，必ず期日までにレポートを提出して下さい．
-> レポート以外の提出物はありません（学習に使ったnotebookも提出しなくてよい）．
-
-- [exp_python1](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python1.ipynb)
-- [exp_python2](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python2.ipynb)
-- [exp_python3](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python3.ipynb)
+- 第2週
+    - 準備中
+- 第3週
+    - 準備中
 
 
-## レポートについて
+## レポートについて（暫定，変更の可能性あり）
 
-3つのnotebookを学習し終えたら，次の手順でレポートを作成してください．
+3週分の学習を終えたら，次の手順でレポートを作成してください．
 
 1. レポートのテンプレート[exp_python_report](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python_report.ipynb)を開く．
 2. 各自のGoogle Driveにコピーを作成する．
@@ -77,15 +62,17 @@
     -->
 8. [C-Learningのレポート提出ページ](https://udai.c-learning.jp/s/report/put/rb82895217)より，リネームしたnotebook（`学籍番号.ipynb`）を提出する
 
-レポート提出の期限は，第2週の実験が終わってから1週間後とします．
+レポート提出の期限は，第3週の実験が終わってから1週間後とします．
 
 > 例
-> - 第1週実験日: 5月15日（金）
-> - 第2週実験日: 5月22日（金）
-> - レポート提出期限: 5月29日（金）23:59
+> - 第1週実験日: 4月8日（金）
+> - 第2週実験日: 4月15日（金）
+> - 第3週実験日: 4月22日（金）
+> - レポート提出期限: 4月29日（金）
 
 
 ## 更新履歴
 
+- 2022-Apr-07: 2022年度対応，第1週分
 - 2020-Oct-07: 後期授業対応のため，レポート提出先URLを変更
 - 2021-Apr-15: 2021年度前期対応
