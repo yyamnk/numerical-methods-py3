@@ -42,7 +42,8 @@
     - 課題用notebook [exp_report1](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_report1.ipynb)
 
 - 第2週
-    - 準備中
+    - 学習用notebook [exp_python2](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python2.ipynb)
+    - 課題用notebook [exp_report2](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_report2.ipynb)
 - 第3週
     - 準備中
 
