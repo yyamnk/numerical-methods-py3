@@ -44,6 +44,7 @@
 - 第2週
     - 学習用notebook [exp_python2](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python2.ipynb)
     - 課題用notebook [exp_report2](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_report2.ipynb)
+
 - 第3週
     - 学習用notebook [exp_python3](https://colab.research.google.com/github/yyamnk/numerical-methods-py3/blob/master/exp_python3.ipynb)
     - 課題用notebookは，下記のレポート課題を参照すること．
@@ -68,6 +69,16 @@
         - `学籍番号.ipynb`の右側にあるメニュー （縦3点リーダー, ︙）> ダウンロード としてnotebookをデバイスに保存する
     -->
 8. C-Learningのレポート提出ページより，リネームしたnotebook（`学籍番号.ipynb`）を提出する
+
+### レポート提出の期限
+
+第3週の実験が終わってから1週間後とします．
+
+> 例
+> - 第1週実験日: 4月8日（金）
+> - 第2週実験日: 4月15日（金）
+> - 第3週実験日: 4月22日（金）
+> - レポート提出期限: 4月29日（金）
 
 
 ## 更新履歴
